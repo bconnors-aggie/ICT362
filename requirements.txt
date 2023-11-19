@@ -3,7 +3,7 @@ anyio==3.7.1
 asgiref==3.7.2
 beautifulsoup4==4.12.2
 Django==3.2.23
-django-bootstrap4==23.2
+django-bootstrap4==23.1
 fastapi==0.104.1
 gunicorn==21.2.0
 idna==3.4
