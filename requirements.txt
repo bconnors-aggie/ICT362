@@ -14,7 +14,7 @@ Django==3.2.23
 django-bootstrap4==23.1
 dulwich==0.21.6
 fastapi==0.103.2
-fastjsonschema==3.12.2
+fastjsonschema==2.19.0
 filelock==3.12.2
 gunicorn==21.2.0
 idna==3.4
