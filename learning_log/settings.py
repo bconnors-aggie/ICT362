@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'bootstrap4',
     'gunicorn',
     'psycopg2',
+    'render.apps.RenderConfig',
 
     #Default Django apps
     'django.contrib.admin',
