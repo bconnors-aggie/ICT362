@@ -2,8 +2,7 @@
 # exit on error
 set -o errexit
 
-install poetry -d ./
-./requirements.txt install -r
+pip install -r requirements.txt
 
 
 python manage.py collectstatic --no-input
