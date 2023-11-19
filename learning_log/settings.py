@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     #Third Party Apps
     'bootstrap4',
     'gunicorn',
-    
+    'psycopg2',
 
     #Default Django apps
     'django.contrib.admin',
