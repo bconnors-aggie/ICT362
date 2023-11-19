@@ -29,7 +29,7 @@ pexpect==4.8.0
 pkginfo==1.9.6
 platformdirs==3.11.0
 poetry==1.5.1
-poetry-core==1.8.1
+poetry-core==1.6.1
 poetry-plugin-export==1.6.0
 psycopg2==2.9.9
 psycopg2-binary==2.9.9
